@@ -171,6 +171,7 @@ svg {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin: 0;
     }
 
     .languages-icons,
@@ -178,6 +179,12 @@ svg {
     .tools-icons {
         display: flex;
         justify-content: center;
+    }
+
+    .languages-icons,
+    .networks-icons,
+    .tools-icons img {
+        margin: 0px;
     }
 
     .stats img {
