@@ -1,5 +1,3 @@
-document.getElementById("flexSwitchCheckReverse").onclick = dark
-
-function dark() {
+document.getElementById("btn-tema").onclick = () => {
     document.body.classList.toggle('dark')
 }
