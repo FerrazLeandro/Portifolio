@@ -69,8 +69,8 @@ svg {
 
 .networks-icons img:hover {
     transform: scale(1.1);
-    transition: all 0.5s;
-    margin: 5px;
+    transition: all 1s;
+    margin: 1px;
 }
 
 
@@ -89,12 +89,18 @@ svg {
 
 .languages-icons {
     display: flex;
-
 }
 
 .languages-icons img {
     width: 40px;
     margin: 5px;
+}
+
+.languages-icons img:hover {
+    width: 40px;
+    margin: 5px;
+    transform: scale(1.1);
+    transition: all 0.5s;
 }
 
 
@@ -120,6 +126,14 @@ svg {
     width: 40px;
     margin: 5px;
 }
+
+.tools-icons img:hover {
+    width: 40px;
+    margin: 5px;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
 
 
 .stats {
