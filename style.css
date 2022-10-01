@@ -148,35 +148,40 @@ svg {
 }
 
 @media screen and (max-width: 800px) {
-     main {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 5px;
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 5px;
 
     }
 
-    .languages h1, .networks h1, .tools h1, .stats h1 {
+    .languages h1,
+    .networks h1,
+    .tools h1,
+    .stats h1 {
         font-size: 10px;
     }
 
-    .introducao, .languages, .networks, .tools, .stats {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    .introducao,
+    .languages,
+    .networks,
+    .tools,
+    .stats {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
-    .languages {
+    .languages-icons,
+    .networks-icons,
+    .tools-icons {
         display: flex;
-        align-items: center;
-    }
-    .languages-icons, .networks-icons, .tools-icons {
-        display: flex;
-        align-items: center;
+        justify-content: center;
     }
 
     .stats img {
         width: 100%;
     }
 
-  }
+}
