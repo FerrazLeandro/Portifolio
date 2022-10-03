@@ -19,6 +19,10 @@ svg {
     fill: #000000;
 }
 
+#btn-tema {
+    margin-left: 130px;
+}
+
 .foto {
     border-radius: 50%;
     margin: 20px;
@@ -164,7 +168,8 @@ svg {
     .networks h1,
     .tools h1,
     .stats h1 {
-        font-size: 15px;
+        font-size: 20px;
+        margin-top: 20px;
     }
 
     .introducao,
