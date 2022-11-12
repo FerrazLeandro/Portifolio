@@ -18,4 +18,5 @@ Para ver o projeto acesse:
 - Preview em tempo real
 - Modo tela cheia
 - Multiplataforma
+- Acessibilidade com libras
 
