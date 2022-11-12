@@ -5,7 +5,7 @@ Portifolio de projetos desenvolvidos durante a trajetoria de DEV
 
 ## Acesso
 
-Para fazer o usar desse projeto acesse: 
+Para ver o projeto acesse: 
 
 ```bash
   https://leandroferraz.tech/
